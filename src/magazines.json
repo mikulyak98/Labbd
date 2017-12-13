@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "name": "First magazine",
+    "number": 1,
+    "articles": [
+      {
+        "id": 0,
+        "name": "Some new artcile 1",
+        "author": "Somebody 1",
+        "releaseDate": "Wed Dec 11 22:29:40 MSK 2017",
+        "length": 256
+      },
+      {
+        "id": 1,
+        "name": "Some new artcile 2",
+        "author": "Somebody 2",
+        "releaseDate": "Wed Dec 02 22:29:40 MSK 2017",
+        "length": 257
+      },
+      {
+        "id": 2,
+        "name": "Some new artcile 3",
+        "author": "Somebody 3",
+        "releaseDate": "Wed Dec 07 22:29:40 MSK 2017",
+        "length": 258
+      },
+      {
+        "id": 3,
+        "name": "Some new artcile 4",
+        "author": "Somebody 4",
+        "releaseDate": "Wed Dec 06 22:29:40 MSK 2017",
+        "length": 259
+      },
+      {
+        "id": 4,
+        "name": "Some new artcile 5",
+        "author": "Somebody 5",
+        "releaseDate": "Wed Dec 12 22:29:40 MSK 2017",
+        "length": 260
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "A magazine",
+    "number": 15,
+    "articles": [
+      {
+        "id": 5,
+        "name": "Some new artcile 1",
+        "author": "Somebody 1",
+        "releaseDate": "Wed Dec 15 22:29:40 MSK 2017",
+        "length": 256
+      },
+      {
+        "id": 6,
+        "name": "Some new artcile 2",
+        "author": "Somebody 2",
+        "releaseDate": "Wed Dec 14 22:29:40 MSK 2017",
+        "length": 257
+      },
+      {
+        "id": 7,
+        "name": "Some new artcile 3",
+        "author": "Somebody 3",
+        "releaseDate": "Wed Dec 20 22:29:40 MSK 2017",
+        "length": 258
+      },
+      {
+        "id": 8,
+        "name": "Some new artcile 4",
+        "author": "Somebody 4",
+        "releaseDate": "Wed Dec 06 22:29:40 MSK 2017",
+        "length": 259
+      },
+      {
+        "id": 9,
+        "name": "Some new artcile 5",
+        "author": "Somebody 5",
+        "releaseDate": "Wed Dec 11 22:29:40 MSK 2017",
+        "length": 260
+      }
+    ]
+  }
+]
